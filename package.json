@@ -72,7 +72,7 @@
     "karma-mocha": "^2.0.1",
     "karma-mocha-reporter": "^2.2.5",
     "karma-sinon-chai": "^2.0.2",
-    "mocha": "^8.0.1",
+    "mocha": "^8.4.0",
     "randomcolor": "^0.5.4",
     "semistandard": "^14.2.2",
     "shelljs": "^0.8.4",
